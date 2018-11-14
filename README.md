@@ -1,1 +1,1 @@
-![Watch the video](https://www.baidu.com)
+[Watch the vide](https://www.baidu.com)
